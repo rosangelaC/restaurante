@@ -4,7 +4,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Mesa extends Model
 {
-    
+    /*aqui modificar lo siguientes*/
 	public $table = "mesas";
 
 	public $primaryKey = "Nro";
