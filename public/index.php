@@ -53,5 +53,5 @@ $response = $kernel->handle(
 );
 
 $response->send();
-/*rueba*/
+
 $kernel->terminate($request, $response);
